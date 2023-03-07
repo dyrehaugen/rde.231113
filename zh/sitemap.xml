@@ -50,6 +50,18 @@
                 href="https://dyrehaugen.github.io/rde/zh/tags/"
                 />
   </url><url>
+    <loc>https://dyrehaugen.github.io/rde/zh/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyrehaugen.github.io/rde/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dyrehaugen.github.io/rde/zh/archives/"
+                />
+  </url><url>
     <loc>https://dyrehaugen.github.io/rde/zh/search/</loc>
     <xhtml:link
                 rel="alternate"

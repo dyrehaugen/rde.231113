@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dyrehaugen.github.io/rde/about/</loc>
+    <loc>https://dyrehaugen.github.io/rde/newsletter/</loc>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rde/newsletter/001-hello-world/</loc>
+    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
@@ -16,12 +20,6 @@
                 hreflang="en"
                 href="https://dyrehaugen.github.io/rde/"
                 />
-  </url><url>
-    <loc>https://dyrehaugen.github.io/rde/newsletter/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dyrehaugen.github.io/rde/newsletter/001-hello-world/</loc>
-    <lastmod>2022-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/categories/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
@@ -182,13 +180,20 @@
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/links/</loc>
-    <priority>0</priority>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rde/about/</loc>
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/archives/</loc>
-  </url><url>
-    <loc>https://dyrehaugen.github.io/rde/docs/archives/</loc>
-  </url><url>
-    <loc>https://dyrehaugen.github.io/rde/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dyrehaugen.github.io/rde/zh/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyrehaugen.github.io/rde/archives/"
+                />
   </url><url>
     <loc>https://dyrehaugen.github.io/rde/newsletter/archives/</loc>
   </url><url>
