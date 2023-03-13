@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Opinions</title>
-    <link>https://dyrehaugen.github.io/rde/posts/</link>
+    <link>http://localhost/rde/posts/</link>
     <description>Recent content in Posts on Opinions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dyrehaugen.github.io/rde/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/rde/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are human needs infinite?</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2023-03-08-are-human-needs-infinite/</link>
+      <link>http://localhost/rde/posts/2023-03-08-are-human-needs-infinite/</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2023-03-08-are-human-needs-infinite/</guid>
+      <guid>http://localhost/rde/posts/2023-03-08-are-human-needs-infinite/</guid>
       <description>Branko Milanovic thinks human needs are infinite and that both Keynes and Marx where wrong to think otherwise.
  Even best among the economists, like Ricardo and Keynes (in “The economic prospects of our grandchildren”) thought that human needs are limited. We should know better today: the needs are unlimited and because we cannot forecast the exact movements in technology, we cannot forecast what particular form such new needs will take.</description>
       <content:encoded><![CDATA[<p>Branko Milanovic thinks
@@ -30,15 +30,75 @@ There are many wants like this, and as BM postulates there will surely be many n
 In my grandparents generation, radio broadcasts were at first non-existent, and then later something they consumed every single day.</em></p>
 <p>My response to this was:</p>
 <p><em>Wants are not needs. Wants are socially constructed. Most wants are unneeded.Why else would we &lsquo;need&rsquo; the marketing business?</em></p>
+<p>Kevin Kelly adds in an <a href="https://noahpinion.substack.com/p/interview-kevin-kelly-editor-author">interview with Noah Smith</a>:</p>
+<blockquote>
+<p>Our technologies are ultimately not contrary to life, but are in fact an extension of life, enabling it to develop yet more options and possibilities at a faster rate. Increasing options and possibilities is also known as progress, so in the end, what the technium brings us humans is progress.</p>
+</blockquote>
+<p><em>Technium</em> is Kelly-speak for &lsquo;the interacting web of technologies&rsquo;.</p>
+<p>So if technium  is part of life, then &lsquo;human&rsquo; needs will be infinite.
+This seems to be the way Branko also is thinking.</p>
+<p>But <em>are</em> technologies part of life?</p>
+<p>And <em>are</em> progress the same as increasing options?</p>
+<p>An isolated theoretical discussion of these isssues may be is a little far-fetched.
+What is the <em>relevance</em> of those questions?</p>
+<p>Both Marx and Keynes had a vision of <em>sufficiency</em> as the final outcome
+of progress.
+In the end human needs are finite and we have learned to live a life with
+what we have and be happy with that.</p>
+<p>This is of course contrary to capitalism&rsquo;s inherent need for accumulation.
+History has constructed an economic system based on survival by growth.
+If you don&rsquo;t grow your business you will go down.</p>
+<p>In the last century, however, an environmental opposision to this worldview
+emerged - the <em>sustainability</em> debate.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959652611004987">Sorman and Giampietro (2013)</a> gives this nice summary:</p>
+<p>&ldquo;In the 1970s Ehrlich and Holdren proposed the</p>
+<p>$$I = P A T$$</p>
+<p>relation, where
+I - Impact on the environment; P - Population; A - Afﬂuence;
+T - Technology.</p>
+<p>This relation indicates that the stress on both environment and
+natural resources is due to a simultaneous increase of human
+population (number of people - an extensive variable) and the
+afﬂuence of society (the level of consumption per capita - an
+intensive variable). The increase in the
+two terms - P and A cannot be compensated by increases in
+efﬁciency - T - that is, better technology.</p>
+<p>The analysis of Ehrlich and Holdern developed a furious debate,
+which, in the 1970s, divided the scientists concerned with
+sustainability amid the two sides:</p>
+<p>(i) The <em>cornucopians</em> - believers in the perpetual growth. For
+those, regardless of whatever increase in P (population size)
+and A (afﬂuence); this will always be compensated by an
+increase in efﬁciency T (better technology/silver bullets); and</p>
+<p>(ii) The <em>prophets of doom</em> - those saying that in a ﬁnite planet
+perpetual growth is not possible, no matter what technology
+will be invented. For them, all the three terms on the right side
+of the equation (PAT) should be changed simultaneously, in an
+integrated way, to maintain the activity of humankind within
+the carrying capacity of our planet. We can recall here the
+famous quote of Kenneth E. Boulding saying that: <em>“Anyone who
+believes exponential growth can go on forever in a ﬁnite world is
+either a madman or an economist”.</em>&rdquo;</p>
+<p>After <em>Limits to Growth</em> in the 1970 the debate went out of steam as
+the cornucopians seemed to have won during the neo-liberal era.
+Now however the debate is back due to the relentless progress of
+climate change - may be there are limits after all?</p>
+<p>Of course, the declared <em>techo-optimists</em> are still fighting -
+today under the name of <em>Green New Deal</em> or <em>Green Transition</em> -
+capitalism is the solution to the problems capitalism has created -
+growth can go on - human needs are infinite.</p>
+<p>The <em>degrowth</em> camp fights back from the position of sufficiency happiness and
+planetary boundaries to capitalisms expansion -
+growth has to stop - human needs are finite.</p>
 ]]></content:encoded>
     </item>
     
     <item>
       <title>Ukraine and the future of Nato</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2022-03-10-ukraine/</link>
+      <link>http://localhost/rde/posts/2022-03-10-ukraine/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2022-03-10-ukraine/</guid>
+      <guid>http://localhost/rde/posts/2022-03-10-ukraine/</guid>
       <description>It&amp;rsquo;s day 14 of Putins invasion in Ukraine. More than 2 million Ukrainians have fled the bombardments. Ukrainians are fighting heavily back - delaying the Russians.
 Ukraine is asking Nato to establish a &amp;lsquo;No-fly Zone&amp;rsquo; - and enforce it! Nato say&amp;rsquo;s &amp;lsquo;No&amp;rsquo;. Ukraine is asking for fighter jets. Poland has offered Soviet-era MIGs - if the alliance takes the responsibility of delivry into Ukraine. (Transfer them to Ramstein and let the US send them to Ukraine).</description>
       <content:encoded><![CDATA[<p>It&rsquo;s day 14 of Putins invasion in Ukraine.
@@ -100,10 +160,10 @@ Putin will have it his way - in Georgia, Crimea, Ukraine, &hellip; &hellip;</p>
     
     <item>
       <title>Farewell Globalization</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2021-05-30-farewell-globalization/</link>
+      <link>http://localhost/rde/posts/2021-05-30-farewell-globalization/</link>
       <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2021-05-30-farewell-globalization/</guid>
+      <guid>http://localhost/rde/posts/2021-05-30-farewell-globalization/</guid>
       <description>To solve the Climate Crisis increasing economic productivity and energy efficiency is not sufficient. Absolute decoupling of economic growth and environmental degradition, including global warming is not feasible (Hickel and Kallis (2019) Is Green Growth Possible?). We will have to stop economic growth itself or even degrow on a global scale.
 Growth economists have always had models that in the long run end in a steady state. That&amp;rsquo;s just mathematics. Many economists have been thinking about &amp;lsquo;steady state economics&amp;rsquo; for a long time.</description>
       <content:encoded><![CDATA[<p>To solve the <em>Climate Crisis</em> increasing economic productivity and energy efficiency
@@ -144,10 +204,10 @@ has steered the world in recent decades</strong></p>
     
     <item>
       <title>The Curse of Development</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2021-05-17-the-curse-of-development/</link>
+      <link>http://localhost/rde/posts/2021-05-17-the-curse-of-development/</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2021-05-17-the-curse-of-development/</guid>
+      <guid>http://localhost/rde/posts/2021-05-17-the-curse-of-development/</guid>
       <description>There exists a well-known Swedish song from my childhood. It begins like this:
 Lyckliga gatan, du finns inte mere Du er försvinnen med hela kvarteret ...  In English the meaning would be:
 Oh Happy Street of my Childhild you no more exits You are now gone together with the whole quarter ...  The lyrics profondly catches the sorry mood of someone experiencing the arrival of the &amp;lsquo;Development Machine&amp;rsquo; in their neigbourhood.</description>
@@ -229,10 +289,10 @@ nature destruction is part of play.</p>
     
     <item>
       <title>The Case of Norway</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2021-02-26-the-case-of-norway/</link>
+      <link>http://localhost/rde/posts/2021-02-26-the-case-of-norway/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2021-02-26-the-case-of-norway/</guid>
+      <guid>http://localhost/rde/posts/2021-02-26-the-case-of-norway/</guid>
       <description>Nordic differences My Swedish friend Torbjörn just sent me a paper clip containing a notice of a Swedish economics professor commenting on the economic situation in Norway. Lars Calmfors in DN 22 feb 2021. The notice is triggered by his involvement in a Norwegian Green Paper Commision on Labour and Income Policy. NOU 2019:7. The Commision shouldpropose new measures to increase labour participation in Norway.
 Internationally the Nordic (sometimes only Scandinavian) countries are mostly treated as fairly much of the same under the heading of &amp;lsquo;The Nordic Model&amp;rsquo;.</description>
       <content:encoded><![CDATA[<h2 id="nordic-differences">Nordic differences</h2>
@@ -369,10 +429,10 @@ come from <a href="https://evonomics.com/norway-toxic-trickle-down-david-sloan-w
     
     <item>
       <title>Some Time Soon</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2021-01-12-some-time-soon/</link>
+      <link>http://localhost/rde/posts/2021-01-12-some-time-soon/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2021-01-12-some-time-soon/</guid>
+      <guid>http://localhost/rde/posts/2021-01-12-some-time-soon/</guid>
       <description>Some Time Soon - things will be the same, but different.
 However, we did not notice the emerging change? - or did we?
  David Roberts tweet the day after the Trump-mob storm on Capitol: Feels like we&amp;rsquo;re trapped in a script, a play, that has been performed several times around the world recently. And even though we know exactly how the fall-of-democracy script plays out &amp;ndash; every beat, every chapter &amp;ndash; we&amp;rsquo;re just trapped, helpless, watching it play out</description>
@@ -417,10 +477,10 @@ Some time soon  there is worse to come.</p>
     
     <item>
       <title>Beyond Capitalism</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2020-02-20-beyond-capitalism/</link>
+      <link>http://localhost/rde/posts/2020-02-20-beyond-capitalism/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2020-02-20-beyond-capitalism/</guid>
+      <guid>http://localhost/rde/posts/2020-02-20-beyond-capitalism/</guid>
       <description>&amp;ldquo;The Climate Crisis is Capitalism&amp;rsquo;s Waterloo&amp;rdquo; (Yanis Varoufakis)
 &amp;ldquo;Black Swan&amp;rdquo; is a label for highly upredictable events with extreme impacts. The concept was made popular by Nassim Nicholas Taleb with his 2007 book of the same title. Some will say the Financial Crisis in 2008 was a black swan. As Queen Elizabeth famously asked the community of Britsish Economists: &amp;ldquo;Why did nobody see this coming?&amp;rdquo; - Although some saw it coming, but not among the mainstream scholars.</description>
       <content:encoded><![CDATA[<p><em>&ldquo;The Climate Crisis is Capitalism&rsquo;s Waterloo&rdquo;</em> (Yanis Varoufakis)</p>
@@ -471,10 +531,10 @@ will no longer be Capitalism.</p>
     
     <item>
       <title>Hypergranular Macroeconomics</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2019-01-28-hypergranular-macroeconomics/</link>
+      <link>http://localhost/rde/posts/2019-01-28-hypergranular-macroeconomics/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2019-01-28-hypergranular-macroeconomics/</guid>
+      <guid>http://localhost/rde/posts/2019-01-28-hypergranular-macroeconomics/</guid>
       <description>The Bruegel blog of September 4, 2018 reports from the annual Jackson Hole gathering of central bankers. This year the focus was on implications for central banks of the rise of superstar firms and changing market structure. Of particular interest I found the contribution of Antoinette Schoar (MIT Sloan) - as refered by Bruegel:
 Antoinette Schoar looks at the financial market, argues that the rapid growth of new digital technologies has created a market dynamic, where many institutions outside the central bank system might soon have much more comprehensive, more accurate and also more timely information than the regulators.</description>
       <content:encoded><![CDATA[<p>The Bruegel blog of September 4, 2018 reports from the annual Jackson Hole gathering of central
@@ -491,10 +551,10 @@ as refered by Bruegel:</p>
     
     <item>
       <title>Krugmans Explanations</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2018-01-25-krugmans-explanations/</link>
+      <link>http://localhost/rde/posts/2018-01-25-krugmans-explanations/</link>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2018-01-25-krugmans-explanations/</guid>
+      <guid>http://localhost/rde/posts/2018-01-25-krugmans-explanations/</guid>
       <description>Mainstream economics failure to &amp;lsquo;see the crisis coming&amp;rsquo; in 2008 is broadly regarded as a deficiency of the theory. However, Paul Krugman now argues that the theory was - and is - &amp;lsquo;good enough for government&amp;rsquo;. The failure of 2008 was not in the theory, but rather in deficient data collection. Macroeconomists &amp;ldquo;overlooked&amp;rdquo; the institutional changes in the financial sector and did not record appropriate data.
 The &amp;ldquo;New Keynesians&amp;rdquo; - i.</description>
       <content:encoded><![CDATA[<p>Mainstream economics failure to &lsquo;see the crisis coming&rsquo; in 2008
@@ -526,10 +586,10 @@ argues that <em>when Keynes was briefly exhumed for six months in 2008-2009, it 
     
     <item>
       <title>The Lost Army</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2017-11-16-the-lost-army/</link>
+      <link>http://localhost/rde/posts/2017-11-16-the-lost-army/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2017-11-16-the-lost-army/</guid>
+      <guid>http://localhost/rde/posts/2017-11-16-the-lost-army/</guid>
       <description>The Thai districts on the Myanmar border have very mixed ethnic groups and a rough history:
 The Shan are not the only ethnic group living here. Ban Mae Aeb is a small village comprising five ethnic groups living togetger. Besides the Shan, the village is home to Chinese, Lahu, Akha and Lua.
 The &amp;ldquo;Lost Army&amp;rdquo; - the republic of China&amp;rsquo;s 93rd Division - fled into Burma after their defeat to the communist.</description>
@@ -563,10 +623,10 @@ the village&rsquo;s official language.</p>
     
     <item>
       <title>Use it or loose it</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2017-06-20-use-it-or-loose-it/</link>
+      <link>http://localhost/rde/posts/2017-06-20-use-it-or-loose-it/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2017-06-20-use-it-or-loose-it/</guid>
+      <guid>http://localhost/rde/posts/2017-06-20-use-it-or-loose-it/</guid>
       <description>Yesterday I got a reminder from Mars! There is a &amp;lsquo;Starmus&amp;rsquo; conference going on these days, in Trondheim, Norway. One astronaut told about returning to Earth after 43 days in Space - the message being that what you don&amp;rsquo;t use (in Space) you have lost when back (on Earth) - i.e. without gravity your sense of balance get lost - you have to retrain basic mobility capabilities upon return.
 So also for elderly people - without exercising mind and body capabilities get lost.</description>
       <content:encoded><![CDATA[<p>Yesterday I got a reminder from Mars!
@@ -585,10 +645,10 @@ for you - would you be able to tell the number to dial?</p>
     
     <item>
       <title>The times they are a changing</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2017-05-28-the-times-they-are-a-changing/</link>
+      <link>http://localhost/rde/posts/2017-05-28-the-times-they-are-a-changing/</link>
       <pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2017-05-28-the-times-they-are-a-changing/</guid>
+      <guid>http://localhost/rde/posts/2017-05-28-the-times-they-are-a-changing/</guid>
       <description>End of an era? Donald Trump has been on his first international trip as President of the U.S. European leaders for the first time in postwar history finds they can no longer trust the U.S. Government. Neither in defence (Nato), climate change (Paris Accord) or trade (TTIP). We are experiencing the slow collapse of the hegemonic US era. Gone are the days of the Washington Concensus and the Neoliberal economic doctrine.</description>
       <content:encoded><![CDATA[<p>End of an era? Donald Trump has been on his first international trip as
 President of the U.S. European leaders for the first time in postwar history

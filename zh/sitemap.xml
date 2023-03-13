@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dyrehaugen.github.io/rde/zh/categories/</loc>
+    <loc>http://localhost/rde/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyrehaugen.github.io/rde/categories/"
+                href="http://localhost/rde/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dyrehaugen.github.io/rde/zh/categories/"
+                href="http://localhost/rde/zh/categories/"
                 />
   </url><url>
-    <loc>https://dyrehaugen.github.io/rde/zh/</loc>
+    <loc>http://localhost/rde/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyrehaugen.github.io/rde/"
+                href="http://localhost/rde/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dyrehaugen.github.io/rde/zh/"
+                href="http://localhost/rde/zh/"
                 />
   </url><url>
-    <loc>https://dyrehaugen.github.io/rde/zh/series/</loc>
+    <loc>http://localhost/rde/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyrehaugen.github.io/rde/series/"
+                href="http://localhost/rde/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dyrehaugen.github.io/rde/zh/series/"
+                href="http://localhost/rde/zh/series/"
                 />
   </url><url>
-    <loc>https://dyrehaugen.github.io/rde/zh/tags/</loc>
+    <loc>http://localhost/rde/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyrehaugen.github.io/rde/tags/"
+                href="http://localhost/rde/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dyrehaugen.github.io/rde/zh/tags/"
+                href="http://localhost/rde/zh/tags/"
                 />
   </url><url>
-    <loc>https://dyrehaugen.github.io/rde/zh/archives/</loc>
+    <loc>http://localhost/rde/zh/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyrehaugen.github.io/rde/archives/"
+                href="http://localhost/rde/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dyrehaugen.github.io/rde/zh/archives/"
+                href="http://localhost/rde/zh/archives/"
                 />
   </url><url>
-    <loc>https://dyrehaugen.github.io/rde/zh/search/</loc>
+    <loc>http://localhost/rde/zh/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyrehaugen.github.io/rde/search/"
+                href="http://localhost/rde/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dyrehaugen.github.io/rde/zh/search/"
+                href="http://localhost/rde/zh/search/"
                 />
   </url>
 </urlset>

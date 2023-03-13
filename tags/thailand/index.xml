@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Thailand on Opinions</title>
-    <link>https://dyrehaugen.github.io/rde/tags/thailand/</link>
+    <link>http://localhost/rde/tags/thailand/</link>
     <description>Recent content in Thailand on Opinions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://dyrehaugen.github.io/rde/tags/thailand/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/rde/tags/thailand/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Lost Army</title>
-      <link>https://dyrehaugen.github.io/rde/posts/2017-11-16-the-lost-army/</link>
+      <link>http://localhost/rde/posts/2017-11-16-the-lost-army/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dyrehaugen.github.io/rde/posts/2017-11-16-the-lost-army/</guid>
+      <guid>http://localhost/rde/posts/2017-11-16-the-lost-army/</guid>
       <description>The Thai districts on the Myanmar border have very mixed ethnic groups and a rough history:
 The Shan are not the only ethnic group living here. Ban Mae Aeb is a small village comprising five ethnic groups living togetger. Besides the Shan, the village is home to Chinese, Lahu, Akha and Lua.
 The &amp;ldquo;Lost Army&amp;rdquo; - the republic of China&amp;rsquo;s 93rd Division - fled into Burma after their defeat to the communist.</description>
