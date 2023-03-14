@@ -2,226 +2,226 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/rde/posts/2023-03-08-are-human-needs-infinite/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2023-03-08-are-human-needs-infinite/</loc>
     <lastmod>2023-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/economics/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/economics/</loc>
     <lastmod>2023-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/</loc>
-    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost/rde/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost/rde/"
-                />
-  </url><url>
-    <loc>http://localhost/rde/posts/</loc>
-    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost/rde/tags/</loc>
+    <loc>https://dyrehaugen.github.io/rde/</loc>
     <lastmod>2023-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost/rde/zh/tags/"
+                href="https://dyrehaugen.github.io/rde/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/rde/tags/"
+                href="https://dyrehaugen.github.io/rde/"
                 />
   </url><url>
-    <loc>http://localhost/rde/newsletter/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/</loc>
+    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rde/tags/</loc>
+    <lastmod>2023-03-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dyrehaugen.github.io/rde/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyrehaugen.github.io/rde/tags/"
+                />
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rde/newsletter/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/newsletter/001-hello-world/</loc>
+    <loc>https://dyrehaugen.github.io/rde/newsletter/001-hello-world/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/categories/</loc>
+    <loc>https://dyrehaugen.github.io/rde/categories/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost/rde/zh/categories/"
+                href="https://dyrehaugen.github.io/rde/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/rde/categories/"
+                href="https://dyrehaugen.github.io/rde/categories/"
                 />
   </url><url>
-    <loc>http://localhost/rde/categories/geopolitics/</loc>
+    <loc>https://dyrehaugen.github.io/rde/categories/geopolitics/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/military/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/military/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/ukraine/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/ukraine/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/posts/2022-03-10-ukraine/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2022-03-10-ukraine/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/climate/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/climate/</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/posts/2021-05-30-farewell-globalization/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2021-05-30-farewell-globalization/</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/globalization/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/globalization/</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/categories/development/</loc>
+    <loc>https://dyrehaugen.github.io/rde/categories/development/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/environment/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/environment/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/growth/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/growth/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/posts/2021-05-17-the-curse-of-development/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2021-05-17-the-curse-of-development/</loc>
     <lastmod>2021-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/categories/economics/</loc>
+    <loc>https://dyrehaugen.github.io/rde/categories/economics/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/green-transition/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/green-transition/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/health/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/health/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/posts/2021-02-26-the-case-of-norway/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2021-02-26-the-case-of-norway/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/aristocracy/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/aristocracy/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/conflict/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/conflict/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/elite/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/elite/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/categories/inequality/</loc>
+    <loc>https://dyrehaugen.github.io/rde/categories/inequality/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/posts/2021-01-12-some-time-soon/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2021-01-12-some-time-soon/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/posts/2020-02-20-beyond-capitalism/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2020-02-20-beyond-capitalism/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/categories/capitalism/</loc>
+    <loc>https://dyrehaugen.github.io/rde/categories/capitalism/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/climate-breakdown/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/climate-breakdown/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/economic-growth/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/economic-growth/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/financial-stability/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/financial-stability/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/big-data/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/big-data/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/central-banks/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/central-banks/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/posts/2019-01-28-hypergranular-macroeconomics/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2019-01-28-hypergranular-macroeconomics/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/government/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/government/</loc>
     <lastmod>2018-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/posts/2018-01-25-krugmans-explanations/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2018-01-25-krugmans-explanations/</loc>
     <lastmod>2018-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/uncertainty/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/uncertainty/</loc>
     <lastmod>2018-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/ethnic-minorities/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/ethnic-minorities/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/categories/history/</loc>
+    <loc>https://dyrehaugen.github.io/rde/categories/history/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/thailand/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/thailand/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/posts/2017-11-16-the-lost-army/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2017-11-16-the-lost-army/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/capabilities/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/capabilities/</loc>
     <lastmod>2017-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/categories/space/</loc>
+    <loc>https://dyrehaugen.github.io/rde/categories/space/</loc>
     <lastmod>2017-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/training/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/training/</loc>
     <lastmod>2017-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/posts/2017-06-20-use-it-or-loose-it/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2017-06-20-use-it-or-loose-it/</loc>
     <lastmod>2017-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/posts/2017-05-28-the-times-they-are-a-changing/</loc>
+    <loc>https://dyrehaugen.github.io/rde/posts/2017-05-28-the-times-they-are-a-changing/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/trade/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/trade/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/tags/transition/</loc>
+    <loc>https://dyrehaugen.github.io/rde/tags/transition/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost/rde/links/</loc>
+    <loc>https://dyrehaugen.github.io/rde/links/</loc>
   </url><url>
-    <loc>http://localhost/rde/about/</loc>
+    <loc>https://dyrehaugen.github.io/rde/about/</loc>
   </url><url>
-    <loc>http://localhost/rde/archives/</loc>
+    <loc>https://dyrehaugen.github.io/rde/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost/rde/zh/archives/"
+                href="https://dyrehaugen.github.io/rde/zh/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/rde/archives/"
+                href="https://dyrehaugen.github.io/rde/archives/"
                 />
   </url><url>
-    <loc>http://localhost/rde/newsletter/archives/</loc>
+    <loc>https://dyrehaugen.github.io/rde/newsletter/archives/</loc>
   </url><url>
-    <loc>http://localhost/rde/search/</loc>
+    <loc>https://dyrehaugen.github.io/rde/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost/rde/zh/search/"
+                href="https://dyrehaugen.github.io/rde/zh/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/rde/search/"
+                href="https://dyrehaugen.github.io/rde/search/"
                 />
   </url><url>
-    <loc>http://localhost/rde/series/</loc>
+    <loc>https://dyrehaugen.github.io/rde/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost/rde/zh/series/"
+                href="https://dyrehaugen.github.io/rde/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/rde/series/"
+                href="https://dyrehaugen.github.io/rde/series/"
                 />
   </url>
 </urlset>

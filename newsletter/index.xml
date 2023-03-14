@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My Newsletter on Opinions</title>
-    <link>http://localhost/rde/newsletter/</link>
+    <link>https://dyrehaugen.github.io/rde/newsletter/</link>
     <description>Recent content in My Newsletter on Opinions</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost/rde/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dyrehaugen.github.io/rde/newsletter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Newsletter: Hello World</title>
-      <link>http://localhost/rde/newsletter/001-hello-world/</link>
+      <link>https://dyrehaugen.github.io/rde/newsletter/001-hello-world/</link>
       <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/rde/newsletter/001-hello-world/</guid>
+      <guid>https://dyrehaugen.github.io/rde/newsletter/001-hello-world/</guid>
       <description>Welcome to PaperModX.</description>
       <content:encoded><![CDATA[<p>Welcome to PaperModX.</p>
 ]]></content:encoded>
